@@ -1,0 +1,1 @@
+exercise 2 https://github.com/EdwardAnokyeJnr/ai-course-lab0/tree/main
