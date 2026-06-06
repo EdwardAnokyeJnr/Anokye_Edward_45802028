@@ -1,0 +1,11 @@
+==================================================
+LAB 0: ENVIRONMENT VERIFICATION
+==================================================
+✅ Python Version: 3.12.0
+✅ OS: Windows 11
+✅ NumPy: 1.24.4
+✅ Pandas: 2.0.3
+✅ Matplotlib: 3.7.5
+✅ Seaborn: 0.13.2
+✅ Virtual Environment: Active (C:\Users\edwar\ai_labs\.venv)
+==================================================
